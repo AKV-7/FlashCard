@@ -1,0 +1,16 @@
+/* src/App.css */
+.app-container {
+  background-color: #000;
+  /* Black background */
+  color: #e0e0e0;
+  /* Light text color */
+  min-height: 100vh;
+  /* Ensure full height */
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  flex: 1;
+  padding: 1rem;
+}
